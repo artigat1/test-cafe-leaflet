@@ -1,0 +1,11 @@
+{
+  "name": "test-cafe-leaflet",
+  "version": "1.0.0",
+  "description": "Following a tutorial on end-2-end testing using the Test Cafe framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome tests/"
+  },
+  "author": "Steve Doggett",
+  "license": "ISC"
+}
